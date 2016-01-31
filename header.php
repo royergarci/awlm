@@ -3,10 +3,10 @@
 					<div class="header-top header-top-style-2">
 						<div class="container">
 							<p class="pull-left hidden-xs">
-								Aire Acondicionado y Refrigeración
+								Reparación, ventas y mantenimiento
 							</p>
 							<p class="pull-right">
-								<i class="fa fa-map-marker"></i> Generales #9 Col. Observatorio Del. Miguel Hidalgo DF.
+								<i class="fa fa-map-marker"></i> <a href="tel:55 4328 0741" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">(55) 4328 0741</a> <i class="fa fa-map-marker"></i> Generales #16 Int.6 Col.Observatorio Del.Miguel Hidalgo CP.11860 DF
 							</p>
 						</div>
 					</div>
@@ -27,7 +27,7 @@
 												<i class="fa fa-phone"></i>
 											</div>
 											<div class="feature-box-info">
-												<h4 class="mb-none">(55) 4328 0741</h4>
+												<h4 class="mb-none"><a href="tel:55 4328 0741" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">(55) 4328 0741</a></h4>
 												<p><small>Número en el DF</small></p>
 											</div>
 										</div>
@@ -38,7 +38,7 @@
 												<i class="fa fa-envelope"></i>
 											</div>
 											<div class="feature-box-info">
-												<h4 class="mb-none">servicio.clientes@americanwhitelinemexico.com</h4>
+												<h4 class="mb-none"><a href="servicio.clientes@americanwhitelinemexico.com">servicio.clientes@americanwhitelinemexico.com</a></h4>
 												<p><small>Mandenos un Email</small></p>
 											</div>
 										</div>

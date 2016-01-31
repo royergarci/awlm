@@ -8,7 +8,7 @@
 						</div>
 						<div class="col-md-3 col-md-offset-1">
 							<h5 class="mb-sm">Contactanos</h5>
-							<span class="phone">(55) 4328-0741</span>
+							<span class="phone"><a href="tel:55 4328 0741" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">(55) 4328 0741</a></span>
 							<p class="mb-none">USA: 1866 55 732 57</p>
 							<p class="mb-none">Lada sin costo: 01 800 56 05 327</p>
 							<p class="mb-none">Nextel ID: 42*13*8145</p>

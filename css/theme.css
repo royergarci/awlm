@@ -4221,11 +4221,17 @@ html.boxed #header .header-body {
 		-moz-border-radius: 0;
 		border-radius: 0;
 	}
+	#header .header-logo img {
+		margin-left: 250%;
+	}
 }
 
 @media (max-width: 767px) {
 	/* Boxed */
 	html.boxed {
 		background: none !important;
+	}
+	#header .header-logo img {
+		margin-left: 100%;
 	}
 }
